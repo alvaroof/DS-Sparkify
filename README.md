@@ -34,16 +34,15 @@ The main findings of the code, and some technical deep-dive, can be found at the
 
 As said, Gradient Boosting Machines was the best performing algorithm on this dataset and for the feature space we looked through. The following are the best results on the train cross-validated test, where we have measured F1-scores. the rationale behind this choice of metric is that we have an unbalanced dataset, and we care more about precision and recall than plain accuracy. 
 
-Logistic Regression: 0.69
-SVM: 0.71
-GBT: 0.76
+* Logistic Regression: 0.69
+* SVM: 0.71
+* GBT: 0.76
 
 After confirming that GBt is the best performing model, we did a last evaluation using test set.
 
-Test Area Under ROC 0.7995642701525055
-Model_gbt Metrics:
-Accuracy: 0.8591549295774648
-F-1 Score:0.8423431837710613
+* Test Area Under ROC 0.7995642701525055
+* Accuracy: 0.8591549295774648
+* F-1 Score:0.8423431837710613
 
 which surprisingly are even better than on the train set during cross-validation. Taking into account that we could have engineered many more features, the results are amazingly good.
 
