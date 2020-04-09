@@ -1,5 +1,5 @@
 # DS-Sparkify
-Capstone Project for the Data Scientist Nanodegree @ Udacity
+Capstone Project for the Data Scientist Nanodegree @ Udacity. There is a blog post associated to it, which you can visit [here](https://medium.com/@ortiz.fernandez.alvaro/sparkify-137817f1dde4).
 
 ### Table of Contents
 
