@@ -7,7 +7,7 @@ Capstone Project for the Data Scientist Nanodegree @ Udacity
 
 2. [File Descriptions](#file)
 
-3. [Results](#results)
+3. [Results and Conclusion](#results)
 
 4. [Acknowledgements](#licensing)
 
@@ -26,7 +26,7 @@ The following has been my attempt at this. Since the data is relatively big we'v
 
 The file with the data is not included in the repository given its realtively big size. 
   
-## Results <a name="results"></a>
+## Results and Conclusion <a name="results"></a>
 
 The main findings of the code, and some technical deep-dive, can be found at the post available [here](https://medium.com/@ortiz.fernandez.alvaro/sparkify-137817f1dde4).
 
